@@ -1,0 +1,59 @@
+
+/*  Tag */
+
+body{background-image: url(Webp.png); background-size: cover;background-attachment: fixed;}  
+
+
+
+
+/* CLASS */
+
+ /* NAVIGATION */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+  .topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-transform: capitalize;
+    font-size: 17px;
+  }
+
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: gray;
+    color: white;
+  }
+ /* NAVIGATION */
+
+
+
+.jumbotron {width: 35%; background-color:transparent; }
+
+
+h2.display-4 {text:50px; text-transform: capitalize; text-align: left; color: white}
+
+p.lead { color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;text-transform: uppercase; font-style: italic;}
+p.nlead {color: white; text-transform: initial; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+.my-4 {border-top: 2px solid white;}
+
+
+
+
+/* ID */
+
+#wrapper {width: 1300px; margin-left: auto; margin-right: auto;}
+
+#img1 { width: 5.6%;float: left;}
+
+#hello {font-family: Arial, Helvetica, sans-serif; text-transform: capitalize; color: white;font-weight: 800px;float: left;}
+ 

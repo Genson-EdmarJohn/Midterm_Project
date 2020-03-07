@@ -1,0 +1,36 @@
+/*  Tag */
+body{background-color: black;}
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+  .topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-transform: capitalize;
+    font-size: 17px;
+  }
+
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: gray;
+    color: white;
+  }
+ /* NAVIGATION */
+
+
+
+
+
+/* ID */
+
+#wrapper {width: 1300px; margin-left: auto; margin-right: auto;}
+
+#img1 { width: 5.6%;float: left;}
